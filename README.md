@@ -4,7 +4,7 @@ XMRIG Monero Ubuntu Script Auto-INSTALL
 
 # SCRIPT AUTO-INST UBUNTU 18/20/21
 
-git clone https://github.com/xmrig/xmrig.git 
+git clone https://github.com/AzotoSolutions-dev/xmrig-ubuntu-install.git
 chmod a+x script.sh
 ./script.sh
 
